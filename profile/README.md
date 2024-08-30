@@ -1,5 +1,7 @@
 ## Android4lumia950
 
-# This project aims to bring Android to your Lumia 950's
+# This project aims to bring Android to your Lumia 950s
 
-"gosh.. The Lumia 950/XL were such great phones, sadly Windows Phone OS is abandoned.. I wonder if there is a way to make them useful again."
+This is the main hub for hosting the Android for Lumia 950/XL sources and devicetrees.
+
+Highly experimental, don't expect full functionality.
